@@ -13,6 +13,8 @@
 		CEE30F401B3B1F58003EC955 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE30F3F1B3B1F58003EC955 /* Images.xcassets */; };
 		CEE30F431B3B1F58003EC955 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CEE30F411B3B1F58003EC955 /* LaunchScreen.xib */; };
 		CEE30F4F1B3B1F58003EC955 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE30F4E1B3B1F58003EC955 /* PostcardTests.swift */; };
+		CEE30F591B3B2867003EC955 /* 1908189_922661064442223_3029082061522317837_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE30F581B3B2867003EC955 /* 1908189_922661064442223_3029082061522317837_n.jpg */; };
+		CEE30F5B1B3B2C0A003EC955 /* 10432116_922661097775553_748586000051215088_n.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CEE30F5A1B3B2C0A003EC955 /* 10432116_922661097775553_748586000051215088_n.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		CEE30F481B3B1F58003EC955 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEE30F4D1B3B1F58003EC955 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CEE30F4E1B3B1F58003EC955 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		CEE30F581B3B2867003EC955 /* 1908189_922661064442223_3029082061522317837_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1908189_922661064442223_3029082061522317837_n.jpg; sourceTree = "<group>"; };
+		CEE30F5A1B3B2C0A003EC955 /* 10432116_922661097775553_748586000051215088_n.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 10432116_922661097775553_748586000051215088_n.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		CEE30F361B3B1F58003EC955 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CEE30F5A1B3B2C0A003EC955 /* 10432116_922661097775553_748586000051215088_n.jpg */,
+				CEE30F581B3B2867003EC955 /* 1908189_922661064442223_3029082061522317837_n.jpg */,
 				CEE30F371B3B1F58003EC955 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				CEE30F3E1B3B1F58003EC955 /* Main.storyboard in Resources */,
+				CEE30F591B3B2867003EC955 /* 1908189_922661064442223_3029082061522317837_n.jpg in Resources */,
+				CEE30F5B1B3B2C0A003EC955 /* 10432116_922661097775553_748586000051215088_n.jpg in Resources */,
 				CEE30F431B3B1F58003EC955 /* LaunchScreen.xib in Resources */,
 				CEE30F401B3B1F58003EC955 /* Images.xcassets in Resources */,
 			);
